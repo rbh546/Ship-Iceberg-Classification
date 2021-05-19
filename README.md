@@ -10,7 +10,7 @@ When the radar detects an object, it can't tell an iceberg from a ship or any ot
 
 The data used here comes with two channels: HH (transmit/receive horizontally) and HV (transmit horizontally and receive vertically). This can play an important role in the object characteristics, since objects tend to reflect energy differently. Easy classification examples are see below. These objects can be visually classified. But in an image with hundreds of objects, this is very time consuming.
 
-![](images/image1.JPG)
+![](images/image1.jpg)
 
 ## Data
 
