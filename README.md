@@ -14,7 +14,7 @@ The data used here comes with two channels: HH (transmit/receive horizontally) a
 
 ## Data
 
-The data comes as NumPy arrays and has the follwing fields.
+The data comes as NumPy arrays and has the follwing fields:
 
 id - the id of the image
 
@@ -23,3 +23,8 @@ band_1, band_2 - the flattened image data. Each band has 75x75 pixel values in t
 inc_angle - the incidence angle of which the image was taken. Note that this field has missing data marked as "na".
 
 is_iceberg - the target variable, set to 1 if it is an iceberg, and 0 if it is a ship.
+
+
+## Running the code
+
+The model can be run either using the script_only.py or running the codeblocks in the Jupyter notebook. Please reach out to me if you need access to the data.
