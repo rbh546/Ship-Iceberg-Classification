@@ -1,4 +1,4 @@
-# Ship-iceberg-classification
+# Ship-Iceberg-Classification
 
 In this project, a simple convolutional neural network is used to classify ship/icebergs from satellite radar images. A jupyter notebookand a python script file of the analysis can be found in the src folder. As shown in the notebook, the CNN has an accuracy of 87% in the classification task. 
 
